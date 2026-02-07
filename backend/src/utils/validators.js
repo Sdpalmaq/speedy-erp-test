@@ -54,7 +54,7 @@ function validateRUC(ruc) {
     if (tercerDigito < 6) {
         const cedula = ruc.substring(0, 10);
         const establecimiento = ruc.substring(10, 13);
-        return validateCeduala(cedula) && establecimiento === '001';
+        return validateCedula(cedula) && establecimiento === '001';
     }
 
     // Validar RUC de sociedad privada o pública

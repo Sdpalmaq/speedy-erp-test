@@ -52,9 +52,11 @@ speedy-erp-test/
 │   │   ├── config/
 │   │   │   └── database.js     # Configuración Oracle
 │   │   ├── controllers/
-│   │   │   └── bpartnerController.js
+│   │   │   └── BPartnerController.js
+│   │   ├── models/
+│   │   │   └── BPartnerModel.js
 │   │   ├── routes/
-│   │   │   └── bpartnerRoutes.js
+│   │   │   └── BPartnerRoutes.js
 │   │   ├── utils/
 │   │   │   └── validators.js   # Validaciones
 │   │   └── app.js

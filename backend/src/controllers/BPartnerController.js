@@ -81,7 +81,7 @@ class BPartnerController {
             if (error.errorNum) {
                 // ORA-00001: Constraint unique violated
                 if (error.errorNum === 1) {
-                    return res.status(409).Json({
+                    return res.status(409).json({
                         success: false,
                         message: 'El codigo de tercero (value) ya existe. Por favor, elija un código diferente.'
                     });
