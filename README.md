@@ -325,21 +325,14 @@ npm install
 
 ---
 
-## 📚 Documentación Adicional
-
-- [Guía de Instalación Detallada](docs/SETUP.md)
-- [Documentación de la API](docs/API.md)
-- [Arquitectura del Sistema](docs/ARCHITECTURE.md)
-
----
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre Completo]**
+**Stalyn David Palma Quiroz**
 
-- Email: [tu-email@ejemplo.com]
-- LinkedIn: [tu-perfil-linkedin]
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
+- Email: [stalinpalma35@gmail.com]
+- LinkedIn: [www.linkedin.com/in/stalyn-palma-180b0217b]
+- GitHub: [@tu-usuario](https://github.com/Sdpalmaq)
 
 ---
 
