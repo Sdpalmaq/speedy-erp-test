@@ -285,10 +285,10 @@ La interfaz se adapta a diferentes dispositivos:
 ## 📸 Screenshots
 
 ### Vista Desktop - Listado
-![Desktop Listado](screenshots/desktop-list.png)
+![Desktop Listado](screenshots/Destock-listado.png)
 
 ### Vista Desktop - Formulario
-![Desktop Formulario](screenshots/desktop-form.png)
+![Desktop Formulario](screenshots/Destock-form.png)
 
 ### Vista Móvil
 ![Móvil](screenshots/mobile-view.png)
