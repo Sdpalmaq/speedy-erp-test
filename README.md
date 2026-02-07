@@ -332,10 +332,10 @@ npm install
 
 - Email: [stalinpalma35@gmail.com]
 - LinkedIn: [www.linkedin.com/in/stalyn-palma-180b0217b]
-- GitHub: [@tu-usuario](https://github.com/Sdpalmaq)
+- GitHub: [sdpalmaq](https://github.com/Sdpalmaq)
 
 ---
-
+ 
 ## 📄 Información del Proyecto
 
 - **Empresa:** Speedy
