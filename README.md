@@ -15,6 +15,8 @@
 
 Sistema web que permite gestionar socios de negocio (terceros) conectado directamente a una base de datos Oracle iDempiere ERP.
 
+Video mostrando funcionalidad: [Video](https://www.loom.com/share/66553ccc0ccd447bb421490d74a7c6a1)
+
 ### Funcionalidades Principales
 
 - ✅ **Consultar** terceros existentes con filtro de búsqueda por nombre o RUC/Cédula
